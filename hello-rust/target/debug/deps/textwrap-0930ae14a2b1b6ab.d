@@ -1,0 +1,11 @@
+/Users/fearless/Code/Rust/rust-playground/hello-rust/target/debug/deps/textwrap-0930ae14a2b1b6ab.rmeta: /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/Users/fearless/Code/Rust/rust-playground/hello-rust/target/debug/deps/libtextwrap-0930ae14a2b1b6ab.rlib: /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/Users/fearless/Code/Rust/rust-playground/hello-rust/target/debug/deps/textwrap-0930ae14a2b1b6ab.d: /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs /Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs:
+/Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs:
+/Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs:
+/Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs:
+/Users/fearless/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs:
